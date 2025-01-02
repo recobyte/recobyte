@@ -3,10 +3,10 @@
 Hi there! I'm **Recobyte**, a passionate developer, exploring the endless world of code, automation, and artificial intelligence. I'm excited to share my journey with you and collaborate on projects that make a difference. 
 
 ## About Me  
-👨‍💻 Full-stack Developer (and occasional full-time coffee drinker)
-💡 Technology Enthusiast (because who needs sleep anyway?)
-🤖 AI & Machine Learning Explorer (trying to teach machines to understand sarcasm)
-🌍 Currently somewhere in the world, probably coding
+👨‍💻 **Full-stack Developer** (and occasional full-time coffee drinker)  
+💡 **Technology Enthusiast** (because who needs sleep anyway?)  
+🤖 **AI & Machine Learning Explorer** (trying to teach machines to understand sarcasm)  
+🌍 **Currently somewhere in the world**, probably coding
 
 ## Skills  
 - **Languages**: JavaScript, Python, C#, TypeScript  
